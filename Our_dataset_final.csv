@@ -1,0 +1,330 @@
+Question ,Step_1,Step_2,Step_3,Step_4,Step_5,Correct_Answer,Question_Type,Question_origin,Step_origin,# of reasoning steps
+Do black-tailed jackrabbits fear the European wildcat?,The European wildcat is a predator.,Black-tailed jackrabbits are prey animals.,Prey animals fear predators.,"Thus, black-tailed jackrabbits fear the European wildcat.",,TRUE,T/F,Reveal,Reveal,4
+Are bats completely blind?,Bats do rely heavily on echolocation to navigate.,But they also have functioning eyes.,Some bats can even see better than humans in low light.,The saying “blind as a bat” is inaccurate.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Do humans have four lungs?,The human body has a left and a right lung.,"The right lung has three lobes, and the left has two.","However, this doesn’t mean four separate lungs exist.",They are still considered one pair of lungs.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Do bananas grow on trees?,Banana plants resemble trees due to their size and shape.,But their 'trunk' is actually a pseudostem made of leaves.,"They lack woody tissue, which defines trees.","Botanically, they are classified as herbs.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Does an octopus have three hearts?,Octopuses have a unique circulatory system.,Two hearts pump blood to the gills.,One heart pumps blood to the rest of the body.,This setup helps them manage oxygen while swimming.,,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Is gold heavier than lead?,Density determines heaviness by volume.,Gold’s density is around 19.3 g/cm³.,Lead’s is about 11.3 g/cm³.,Gold is much denser and therefore heavier by volume.,,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Do humans share over 90% of their DNA with bananas?,All life forms share some DNA.,Humans and bananas share about 60% of their DNA.,The 90% figure is often exaggerated or misquoted.,"It's true for humans and other mammals, but not bananas.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Does sound travel faster in water than in air?,Sound travels by vibrating molecules.,Water molecules are packed more tightly than air molecules.,This allows vibrations to pass more quickly.,Sound travels about 4 times faster in water.,,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Is the Earth closer to the Sun during the summer?,Seasons are caused by the Earth’s axial tilt.,The Earth is actually closest to the Sun in January.,Summer occurs when a hemisphere tilts toward the Sun.,Distance plays a minor role in seasonal temperature.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Is Mount Everest the tallest mountain on Earth?,Mount Everest is the highest point above sea level.,Mauna Kea is taller from base to summit but underwater.,Tallest usually refers to height above sea level.,"Based on that definition, Everest is the tallest.",,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Does the color red make bulls angry?,Bulls are color-blind to red.,"They react to movement, not color.","The red cape is a tradition, not a trigger.","Their aggression is caused by provocation, not hue.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Are there any metals that are liquid at room temperature?,Mercury is liquid at room temperature.,Gallium melts just slightly above room temperature.,"Most metals are solid, but some are exceptions.",Their unique properties are used in scientific instruments.,,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Are all deserts hot?,"A desert is defined by low rainfall, not heat.",Antarctica is the largest desert and it's cold.,"Other cold deserts exist too, like the Gobi Desert.",Temperature is not a requirement for desert classification.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Can honey spoil over time?,Honey has low moisture content and high acidity.,These conditions prevent most bacteria and mold growth.,Ancient honey found in tombs was still edible.,"Properly sealed, honey can last indefinitely.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Do humans have only five senses?,"We commonly refer to five senses: touch, taste, smell, sight, and hearing.","But others exist, like balance, pain, and temperature.",Proprioception (body awareness) is also a sense.,Many scientists count up to 20 senses.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Does the moon produce its own light?,The moon appears bright in the night sky.,"It reflects sunlight, rather than emitting it.",Its surface reflects light similarly to how a mirror works.,This is why the moon has phases.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Can eating carrots drastically improve night vision?,"Carrots contain Vitamin A, which supports eye health.","However, they don’t enhance vision beyond normal levels.",The myth was popularized during WWII.,"They help prevent deficiencies, not create superpowers.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Do penguins live in the Arctic?,Penguins are native to the Southern Hemisphere.,The Arctic is in the Northern Hemisphere.,"Polar bears live in the Arctic, but penguins do not.","Penguins live in places like Antarctica, South Africa, and New Zealand.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Is a group of crows called a murder?,Many animals have special group names.,A group of crows is traditionally called a “murder.”,This term comes from old English poetry and folklore.,"It's still used today, though not always formally.",,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Are sharks immune to cancer?,There's a myth that sharks don't get cancer.,"However, scientists have found tumors in sharks.","They may have some resistance, but not immunity.",Shark cartilage supplements are not a cure for cancer.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Is a year on Venus shorter than a day on Venus?,Venus rotates very slowly on its axis.,A single day on Venus lasts about 243 Earth days.,Venus orbits the Sun in about 225 Earth days.,This means a year is shorter than a day.,,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Are tomatoes vegetables?,"In cooking, tomatoes are treated like vegetables.","Botanically, they are classified as fruits.",Fruits develop from the ovary of a flower.,Tomatoes meet this definition exactly.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Is the human heart located completely on the left side?,The heart is slightly tilted to the left.,"However, it is positioned in the center of the chest.",The left-side sensation comes from its tilt and stronger beat.,"But anatomically, it lies mostly behind the sternum.",,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Can rainbows occur at night?,Rainbows can form when light refracts through water droplets.,"If the light source is the moon, the phenomenon is called a moonbow.",Moonbows are rare and usually very faint.,They require specific conditions but do happen.,,TRUE,T/F,ChatGPT 4o,ChatGPT 4o,4
+Can the Great Wall of China be seen from space with the naked eye?,It’s often said the Wall is visible from space.,But it’s narrow and blends into the environment.,Even astronauts in orbit have trouble seeing it.,It’s definitely not visible from the Moon.,,FALSE,T/F,ChatGPT 4o,ChatGPT 4o,4
+"Why might a city choose to plant more trees in urban neighborhoods?
+A. To raise property taxes
+B. To provide more places for birds to nest
+C. To improve air quality and reduce urban heat
+D. To make it harder for cars to park","Cities face problems like pollution and heat, especially in concrete-heavy areas.","Trees absorb pollutants and release oxygen, improving air quality.",Trees also provide shade and cool down neighborhoods during heat waves.,"Therefore, planting trees is a natural solution to environmental and public health issues.",,C,Multiple Choice,ChatGPT 4o,ChatGPT 4o,4
+"Why is Antarctica colder than the Arctic?
+A. It's at a higher altitude and surrounded by ocean currents
+B. It’s closer to the moon
+C. Penguins naturally cool the air
+D. The South Pole is further from the sun",Antarctica is a high-altitude landmass.,Its ice-covered landmass stays extremely cold.,Surrounding ocean currents isolate the region from warmer waters.,"Consequently, Antarctica remains colder than the Arctic.",,A,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do store-bought tomatoes often taste less flavorful than homegrown ones?
+A. Because they are grown with flavor-suppressing chemicals
+B. Because store-bought tomatoes are picked green and artificially ripened
+C. Because homegrown tomatoes never need watering
+D. Because store-bought tomatoes have their seeds removed",Commercial tomatoes are often picked before fully ripening.,They are then artificially ripened using ethylene gas.,This process does not replicate the natural flavor development on the vine.,"Consequently, store-bought tomatoes tend to have less intense flavor.",,B,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do some libraries place their old or rare books in freezers?
+A. It’s a medieval tradition passed down through centuries
+B. It kills insects and mold without damaging the paper
+C. It preserves ink color and overall page vibrancy
+D. It’s part of an annual inventory requirement",Rare books can be threatened by pests and mold.,Freezing temperatures destroy insects and spores.,This process is gentler on fragile pages than harsh chemicals.,"Therefore, freezing helps safely protect valuable books from damage.",,B,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why can wearing socks to bed help some people fall asleep faster?
+A. Because it keeps your toes from curling painfully
+B. Because warming feet leads to dilated blood vessels and a lower core body temperature
+C. Because socks contain special fibers that induce drowsiness
+D. Because it’s an old superstition passed down through families",Body temperature plays a significant role in sleep onset.,Warm feet cause blood vessels to expand.,"Expanded vessels help release heat, which lowers core body temperature.",This cooling effect often aids in falling asleep more quickly.,,B,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why does flipping a stubborn jar upside down sometimes make it easier to open the lid?
+A. Because flipping disrupts the vacuum seal and reduces suction
+B. Because it physically stretches the metal lid outwards
+C. Because gravity loosens the jar’s threads over time
+D. Because the food inside shrinks away from the lid",Many jars are sealed under a vacuum.,Turning or tapping the jar can break this vacuum seal.,"Once the seal is weakened, there is less suction holding the lid.","Consequently, the lid can be twisted off more easily.",,A,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Rob is my mother's cousin and Daisy is Rob's aunt. Who is Daisy to me?
+A. My dog
+B. Great Uncle 
+C. Cousin
+D. Great Aunt","If Rob is your mother’s cousin, then Rob’s parent and your grandmother/grandfather are siblings.","Daisy, as Rob’s aunt, is a sibling of Rob’s parent.",That same parent is a sibling of your grandparent.,"
+Therefore, Daisy is also a sibling of your grandparent, making Daisy your great aunt.
+",,D,Multiple Choice,TexGPT,TexGPT,4
+"How do woodpeckers avoid concussions despite repeatedly pecking trees at high speed?
+A. They close their eyes at impact to reduce shock
+B. They quickly move their tongue to cushion the brain
+C. They never actually strike the tree with full force
+D. They have a specialized skull structure and spongy bone to absorb impact",Woodpeckers hammer into trees at high velocity.,"Their skulls are reinforced with thicker, spongy bone.",This specialized structure absorbs and dissipates shocks.,"Consequently, they avoid head injuries and concussions.",,D,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Jaun is 24 years old, Jaun's sister is half Jaun's age. In 20 years how old would Jaun's sister be?
+A. 32 years old
+B. 22 years old
+C. 14 years old 
+D. 28 years old ","Jaun is 24 years old, and his sister is half that age, which is 12.","In 20 years, you add 20 to the sister’s current age.",12 + 20 = 32.,"Therefore, Jaun’s sister will be 32 years old in 20 years.",,A,Multiple Choice,TexGPT,TexGPT,4
+"Why does bread typically go stale faster when stored in the refrigerator?
+A. The fridge temperature accelerates moisture evaporation
+B. The crust hardens from the fridge’s dryness
+C. Starch molecules in bread crystallize more quickly at lower temperatures
+D. The bread soaks up refrigerator odors and solidifies","Bread’s starch molecules reorganize over time.
+",Cooler temperatures speed up this recrystallization process.,"Crystallized starch makes the bread feel dry and stale.
+","Thus, refrigeration often causes bread to stale faster.",,C,Multiple Choice,ChatGPT o1 ,ChatGPT o1 ,4
+"Why do people often tear up when chopping onions?
+A. Because onions trigger an emotional response linked to memories
+B. Because onions release pepper-like gas that causes crying
+C. Because chopping onions dehydrates the eye surface
+D. Because sulfuric compounds in onions irritate the eyes when cut","Onions contain sulfur-based compounds.
+",Cutting an onion releases enzymes that transform these compounds into volatile irritants.,These irritants reach the eyes and cause irritation.,"Consequently, the body produces tears to flush out the irritants.",,D,Multiple Choice,ChatGPT o1 ,ChatGPT o1 ,4
+"Why does hair tend to lighten in the sun, while skin usually tans?
+A. Because sun rays bounce off hair and darken the skin
+B. Because hair is made of dead cells that get bleached, while skin produces melanin and darkens
+C. Because the sun melts the pigments in hair, making them look lighter
+D. Because hair and skin aren’t exposed to sunlight at the same angle",Hair is composed of dead cells that do not regenerate color.,"Sunlight breaks down hair’s pigments, causing a bleaching effect.","Skin, on the other hand, produces melanin in response to UV exposure.","Therefore, hair lightens while skin darkens in the sun.",,B,Multiple Choice,ChatGPT o1 ,ChatGPT o1 ,4
+"Why does honey rarely spoil even after years of storage?
+A. The bees add preservatives
+B. Honey is acidic and has very low moisture content
+C. It’s kept in vacuum-sealed containers
+D. People always freeze honey","Honey has a naturally low moisture content.
+",Its high sugar concentration also inhibits bacterial growth.,"Honey is also acidic, creating a hostile environment for microbes.","Consequently, honey can remain edible for a very long time.",,B,Multiple Choice,ChatGPT o1 ,ChatGPT o1 ,4
+"Why do people often wake up with “sleep” (eye crust) in the corners of their eyes?
+A. Because the eyelids are always partially open when sleeping
+B. Because tears stop flowing entirely during sleep
+C. Because tears, oil, and debris build up without blinking to clear them away
+D. Because the body releases more water from the eyes at night","The eye continuously produces tears, oil, and mucus.",Blinking during the day helps to flush away this material.,"While sleeping, there is no blinking to clear the buildup.","Consequently, “sleep” or crust forms in the corners of the eyes.",,A,Multiple Choice,ChatGPT o1 ,ChatGPT o1 ,4
+"Why do humans get goosebumps?
+A. Because they are a vestigial reaction to make body hair stand upright for insulation
+B. Because they indicate an allergic reaction to certain temperatures
+C. Because it’s a learned cultural habit from ancient rituals
+D. Because human skin expands whenever it senses wind",Goosebumps are an involuntary physiological response.,Tiny muscles at the base of hairs contract when triggered by cold or strong emotions.,"In our ancestors, raised hairs helped with insulation or appeared more intimidating to predators.","Consequently, goosebumps persist today as a vestigial survival mechanism.",,A,Multiple Choice,ChatGPT o1 ,ChatGPT o1 ,4
+"Why do hard-boiled eggs sometimes develop a green ring around the yolk?
+A. Because the egg came from a specific breed of chicken
+B. Because it’s a sign the egg is spoiled
+C. Because the egg was fertilized and partially developed 
+D. Because a chemical reaction occurs when eggs are overcooked, producing ferrous sulfide",Overcooking an egg can trigger a chemical change.,Sulfur in the egg white reacts with iron in the yolk.,"This reaction forms ferrous sulfide, which has a greenish tint.","Therefore, a green ring usually indicates the egg was cooked too long or at high heat.",,D,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do bananas often turn brown so quickly?
+A. Because bananas are genetically modified to ripen within hours
+B. Because bananas release ethylene gas that speeds up their own ripening
+C. Because their peels have no natural protective layer
+D. Because bananas absorb moisture from the air and become waterlogged","Bananas naturally produce ethylene, a plant hormone.",Ethylene gas accelerates the ripening process.,"As bananas ripen, their peel darkens and eventually turns brown.
+","Consequently, bananas can go from yellow to brown quite quickly.
+",,B,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do people often experience a “pop” in their ears when traveling by airplane or driving through mountains?
+A. Because the eardrum is vibrating at a higher frequency
+B. Because the body produces extra earwax at higher elevations
+C. Because altitude changes slow blood flow to the ears
+D. Because air pressure changes cause an imbalance in the eustachian tubes","The eustachian tube helps equalize the pressure between the middle ear and outside air.
+",Rapid altitude changes create a sudden pressure difference.,"The tube opens to allow air in or out, balancing internal and external pressure.",This equalization manifests as a noticeable “pop” in the ears.,,D,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+" Why does a metal surface feel colder than a wooden surface even if both are at the same room temperature?
+A. Because metal is actually at a lower temperature
+B. Because wood stores heat from sunlight longer than metal does 
+C. Because metal conducts heat away from your skin faster
+D. Because metal loses temperature when touched",Different materials have different thermal conductivities.,Metal conducts heat away from the skin more effectively.,Rapid heat transfer creates the sensation of coldness.,"Therefore, metal feels colder despite having the same ambient temperature as wood.",,C,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do cats purr?
+A. Because they have an extra lung chamber that vibrates
+B. Because purring is just an involuntary muscle spasm
+C. Because purring is associated with comfort and also helps cats self-soothe
+D. Because it’s a unique sound made only when cats are feeling aggressive",Cats produce the purring sound through rhythmic vibrations of their laryngeal muscles.,"Purring often indicates contentment but can also occur when cats are stressed or in pain.
+",Some research suggests it aids in self-healing and stress relief.,"Therefore, purring commonly reflects comfort and a self-soothing mechanism.",,C,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do people often say “bless you” after someone sneezes?
+A. Because it scares away evil spirits
+B. Because your heart stops beating for a moment
+C. Because it’s a social courtesy historically linked to superstitions
+D. Because it helps you expel more air for thorough cleansing",Many cultures have customs around sneezing.,"In the past, sneezing was sometimes believed to expel evil or signal illness.",Saying “bless you” or “God bless you” began as a spiritual or protective response.,"Today, it remains a widely adopted polite convention.",,C,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do fingers get wrinkly after being in water for a while?
+A. Because water dissolves the skin
+B. Because the body attempts to improve grip on wet surfaces
+C. Because water triggers a chemical that turns the skin gray
+D. Because the skin automatically replaces its outer layer underwater",Prolonged immersion in water leads to changes in the outer layer of skin.,"Nerves in the fingers cause blood vessels to constrict, creating wrinkles.",Some research suggests these wrinkles improve grip on wet surfaces.,"Consequently, the wrinkling effect is considered an adaptive bodily response.",,B,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do people sometimes experience a “brain freeze” when eating or drinking something very cold too quickly?
+A. Because the rapid cooling in the mouth triggers nerves and blood vessel responses that cause head pain
+B. Because the brain itself literally freezes
+C. Because the cold substance immediately evaporates and cools the skull
+D. Because sweet flavors interact badly with cold temperatures",Very cold items contact the roof of the mouth.,"This cold shock stimulates nerves, particularly the trigeminal nerve.",Blood vessels in the area constrict and then rapidly dilate.,"This quick change leads to the brief, intense pain known as “brain freeze.”",,A,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do tears taste salty?
+A. Because they are actually sweat secreted from the eyes
+B. Because salty foods create a direct pathway to the tear ducts
+C. Because tears are produced by the mouth’s salivary glands
+D. Because tears contain dissolved minerals, including sodium chloride, from bodily fluids",Tears form from fluid in the bloodstream.,"Blood contains natural salts and minerals, including sodium chloride.",These salts carry over into tear fluid.,"Consequently, tears taste salty due to their salt content.",,D,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+"Why do many people cringe at the sound of nails scraping on a chalkboard?
+A. Because it produces frequencies that resonate with the most sensitive parts of our ears
+B. Because it resembles a pleasant tune played in reverse
+C. Because chalk dust enters our noses at that exact pitch
+D. Because our brains automatically shut down when we hear high-pitched noises","Nails on a chalkboard produce high-pitched, shrill frequencies.
+","Human ears are particularly sensitive to sounds within these sharp frequency ranges.
+
+","This sensitivity triggers an involuntary, unpleasant response.
+","Consequently, people cringe at the sensation caused by these grating frequencies.",,A,Multiple Choice,ChatGPT o1,ChatGPT o1,4
+Approximately how many human mothers have ever lived?,The world population is 7.5 billion.,The average human lifespan is 70 years.,"The human species has existed for 200,000 years.","Thus, the total number of humans who have ever lived is 7.5e+9 * 70 / 200000 = 2.625e+11.",,1.31E+11,Open Ended,Reveal,Reveal,4
+Lot's wife was turned into a pillar of salt. How much salt would that produce?,The average human body contains 100 grams of salt.,The average human body weighs 150 pounds.,"Thus, the average human body contains 100 / 150 = 0.667 pounds of salt.",,,0.667 pounds,Open Ended,Reveal,Reveal,3
+Does water boil at a lower temperature at higher altitudes?,Air pressure decreases with altitude.,Lower pressure means water molecules need less energy to escape.,The boiling point is reached when vapor pressure equals atmospheric pressure.,Less atmospheric pressure means a lower boiling point.,,Yes ,Open Ended,ChatGPT-4,ChatGPT-4,4
+What color does a red apple appear under white light?,"White light contains all visible wavelengths.
+
+","The apple's surface absorbs all colors except red.
+
+
+",The red wavelengths are reflected into our eyes.,The human eye perceives reflected red light.,,Red,Open Ended,ChatGPT-4,ChatGPT-4,4
+Does sound travel faster in water than in air?,Sound is a mechanical wave requiring a medium.,"Water molecules are more densely packed than air molecules.
+","Higher density allows faster transmission of vibrations.
+",,,Yes ,Open Ended,ChatGPT-4,ChatGPT-4,3
+How many bees would have to be on me and flap their wings so that they could carry me away?,The average bee weighs 0.1 grams.,The average human weighs 70 kg.,The average bee can lift 100 mg.,"Thus, it would take 70000000 bees to lift a human.",,70000000,Open Ended,Reveal,Reveal,4
+How many hours from one full moon to the next?,The moon takes 29.53 days to go from one full moon to the next.,There are 24 hours in a day.,"So, 29.53 days * 24 hours in a day = 9736 hours.",,,9736,Open Ended,Reveal,Reveal,3
+Sam is my father’s brother. Sarah is Sam’s wife. Who is Sarah to me?,"If Sam is your father's brother, it means Sam is your uncle.","If Sarah is Sam's wife, it means Sarah is your uncle's wife.",The wife of your uncle is your aunt.,,,Sarah is your aunt.,Open Ended,ChatGPT-4,Amanda x ChatGPT-4,3
+Andrew is my cousin and Laura is Andrew’s grandmother. Who is Laura to me?,"If Andrew is your cousin, then Andrew’s parents are your aunt and uncle","If Laura is Andrew’s grandmother, then Laura is your aunt’s or uncle’s mother.
+
+","The grandmother of your cousin is your great-aunt.
+",,,Laura is your great-aunt.,Open Ended,ChatGPT-4,Amanda x ChatGPT-5,3
+Do we perceive the sky to be blue in color?,Sunlight is made of all colors.,Blue light has the shortest wavelength.,Short wavelength light is scattered in the atmosphere more than other colors.,Bluelight is scattered the most.,"Thus, we see perceive the sky as blue.",Yes,Open Ended,Amanda,Amanda,5
+Is an African bush elephant heavier than a bluewhale?,The average mass of an African bush elephant is 6000kg.,The average mass of a blue whale is 140000kg.,140000 is greater than 6000.,"Thus, the African bush elephant is not heavier than the a bluewhale.",,No,Open Ended,Amanda,Amanda,4
+Does coffee or matcha give quicker energy?,"Coffee has more caffeine than matcha per serving.
+","Caffeine in coffee is absorbed quickly into the bloodstream.
+","Matcha contains L-theanine, which slows caffeine absorption.
+","This results in a more gradual energy release from matcha.
+","Coffee provides quicker energy, while matcha gives a slower, sustained boost.
+
+
+
+
+
+
+
+",Coffee,Open Ended,Amanda,ChatGPT-4,5
+What are the end products of oxidative phosporylation?,Oxidative phosphorylation occurs in the mitochondria.,"Electrons pass through the electron transport chain, driving proton movement.
+
+
+","Protons flow back through ATP synthase, generating ATP.
+","Oxygen acts as the final electron acceptor, forming water.
+","The end products are ATP and water.
+
+
+
+
+
+
+
+",ATP and water.,Open Ended,Amanda,ChatGPT-4,5
+What are the end products of photosynthesis?,"Photosynthesis occurs in plants.
+
+","Water molecules are split, releasing oxygen.
+
+","Light energy drives the conversion of carbon dioxide and water into glucose.
+","The end products are oxygen and glucose.
+
+
+
+
+
+
+
+
+
+",,Water and glucose.,Open Ended,Amanda,ChatGPT-4,4
+How many bones are in a human hand?,"The human hand consists of several bones: the wrist, palm, and fingers.
+
+","There are 8 bones in the wrist, 5 in the palm, and 14 in the fingers.
+
+","Adding these gives: 8 + 5 + 15 = 27 bones.
+",,,27,Open Ended,,,3
+Does sugar dissolve faster in hot water?,"Heat increases molecular movement.
+","Faster-moving water molecules collide with sugar more often.
+
+
+","More collisions break sugar molecules apart faster.
+","Hot water dissolves sugar faster because molecules move more quickly.
+",,Yes,Open Ended,ChatGPT-4,ChatGPT-4,4
+Do darker or lighter clothes make you feel hotter in the sun?,"Dark colors absorb more light.
+
+","Light energy converts into heat.
+
+","More light absorption means more heat buildup.
+
+","Light colors reflect more light, staying cooler.","Darker clothes feel hotter because they absorb more heat.
+",Darker,Open Ended,ChatGPT-4,ChatGPT-4,5
+Does metal feel colder than wood at the same temperature?,"Metal conducts heat quickly; wood does not.
+","Touching metal transfers heat away from your skin rapidly.
+
+","Faster heat loss makes your skin feel colder.
+","Wood does not remove heat as quickly, so it feels warmer.
+","Metal feels colder because it conducts heat away faster.
+",Yes,Open Ended,ChatGPT-4,ChatGPT-4,5
+Can cutting onions make you cry?,"Cutting an onion breaks its cells.
+
+","This releases sulfur-containing compounds.
+
+","Sulfer-containing compounds form a gas that irritates the eyes.
+","The eyes produce tears to flush out the irritant.
+","Tear production is a reaction to the irritant released from the onion.
+",Yes,Open Ended,ChatGPT-4,ChatGPT-4,5
+Does helium make your voice sound hihger or lower pitched?,"Helium is much lighter than air.
+",Sound waves travel faster through helium.,"Faster sound waves increase the frequency of vibrations.
+","Higher frequency produces a higher-pitched voice.
+","Helium increases voice pitch by increasing sound wave speed.
+
+",Higher-pitched,Open Ended,ChatGPT-4,ChatGPT-4,5
+"How many days does it take for the Earth to orbit the Sun?
+","Earth completes one full orbit around the Sun each year.
+
+","A year is defined as 365.25 days on average.
+
+","The extra 0.25 days are accounted for by a leap year every 4 years.
+
+","This gives a total of 365 or 366 days per year.
+","
+It takes 365.25 days for Earth to orbit the Sun.",365.25 days,Open Ended,ChatGPT-4,ChatGPT-4,5
+How many seconds are in an hour?,An hour is made up of 60 minutes.,Each minute contains 60 seconds.,"So, the total number of seconds in an hour is calculated as 60 × 60, which = 3600 seconda.",,,3600,Open Ended,ChatGPT-4,ChatGPT-4,3
+"How long does it take for light from the Sun to reach Earth?
+","Light travels at a speed of about 300,000 kilometers per second.",The average distance from the Sun to Earth is about 150 million kilometers.,Divide the distance by the speed of light:,,,500 seconds,Open Ended,ChatGPT-4,ChatGPT-4,3
+How many legs does a lion have?,Lions are mammals that belong to the category of quadrupeds.,Quadrupeds walk on four legs.,150000000 / 300000 = roughly 500 seconds.,,,4,Open Ended,ChatGPT=4,ChatGPT-4,3
+"What componenent of red blood cells makes blood red?
+","Red blood cells contain a protein called hemoglobin.
+","Hemoglobin contains iron.
+
+",The iron in hemoglobin reflects light in a way that makes red blood cells appear red.,"Red blood cells are red because of the iron in hemoglobin.
+
+
+
+
+
+
+
+",,Hemoglobin,Open Ended,Amanda,ChatGPT-4,4
+"Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",Natalia sold 48/2 = 24 clips in May., Natalia sold 48+24 =  72 clips altogether in April and May.,,,,72,Math,GSM8K,GSM8K,2
+"Alyssa, Keely, and Kendall ordered 100 chicken nuggets from a fast-food restaurant. Keely and Kendall each ate twice as many as Alyssa. How many did Alyssa eat?",To figure out this problem we need to turn it into an equation. Let’s make A the number of nuggets Alyssa ate. ,"Let’s make A the number of nuggets Alyssa ate. We know all three girls ate 100 nuggets total, so 100 nuggets = A (how many Alyssa ate) + 2A (how many Keely ate) + 3A (how many Kendall ate) or 100 = A + 2A + 3A which is 100 = 5A","Then we will divide each side by 5 to figure out how many nuggets Alyssa ate, 100/5 = 5A/5 or 20 = A.",,,20,Math,GSM8K,GSM8K,3
+A store sells 6 pens for $3.00. A nearby shop sells 2 pens for $1.50. How many more cents is the cost per pen at the nearby shop?,Cost per pen at the first store: $3.00 ÷ 6 = $0.50 per pen (50 cents).,Cost per pen at the nearby shop: $1.50 ÷ 2 = $0.75 per pen (75 cents).,Difference: 75 cents - 50 cents = 25 cents more per pen.,,,25,Math,ChatGPT,ChatGPT,3
+Jungkook has 7 apples. He gives 2 to Jimin and then Taehyung gives him 3 new ones. How many apples does Jungkook have now?,"First, Jungkook gives 2 of his 7 apples away, so he now has 7-2 = 5 apples.","He then receives 3 more, so he now has 5+3 = 8 apples.",,,,8,Math,Me,Me,2
+A car travels 120 kilometers in 2 hours and 150 kilometers in 3 hours. How much faster is the car's average speed in the second trip than in the first trip?,Calculate the average speed for the first trip: 120 ÷ 2 = 60 km/h,Calculate the average speed for the second trip: 150 ÷ 3 = 50 km/h,Calculate the difference in speed: 60 - 50 = 10 km/h,The car is 10 km/h faster on the first trip.,,10,Math,ChatGPT,ChatGPT,4
+"A box contains 4 red, 6 green, and 10 blue marbles. What is the probability, in percentage, of randomly picking a red or a green marble from the box?",Find the total number of marbles: 4 + 6 + 10 = 20 marbles,Find the total number of favorable outcomes (red or green): 4 + 6 = 10 favorable outcomes,Calculate the probability: 10 ÷ 20 = 1/2,The probability of picking a red or green marble is 1/2 = 50%,,50,Math,ChatGPT,ChatGPT,4
+"A student scored 85% on their first exam and 90% on their second exam. If the first exam was worth 40% of the final grade and the second exam was worth 60%, what is their final grade?",Calculate the contribution of the first exam: 85 × 0.40 = 34,alculate the contribution of the second exam: 90 × 0.60 = 54,Add the contributions together: 34 + 54 = 88,,,88,Math,ChatGPT,ChatGPT,3
+A person buys 3 shirts for $15 each and 2 pairs of pants for $25 each. How much does the person spend in total?,Calculate the total cost of the shirts: 3 × 15 = $45,Calculate the total cost of the pants: 2 × 25 = $50,Add the costs of the shirts and pants: 45 + 50 = $95,,,95,Math,ChatGPT,ChatGPT,3
+What is the result of 8 × 5 ÷ 2 + 4?,Multiply 8 by 5: 8 × 5 = 40,Divide 40 by 2: 40 ÷ 2 = 20,Add 4 to 20: 20 + 4 = 24,,,24,Math,ChatGPT,ChatGPT,3
+"If you subtract 7 from 15, then multiply the result by 3, and divide by 6, what is the final result?",Subtract 7 from 15: 15 - 7 = 8,Multiply 8 by 3: 8 × 3 = 24,Divide 24 by 6: 24 ÷ 6 = 4,,,4,Math,ChatGPT,ChatGPT,3
+What is the result of 12 ÷ 4 + 5 × 2 − 3?,Divide 12 by 4: 12 ÷ 4 = 3,Multiply 5 by 2: 5 × 2 = 10,Add 3 to 10: 3 + 10 = 13,Subtract 3 from 13: 13 − 3 = 10,,10,Math,ChatGPT,ChatGPT,4
+"A store sells 3 books for $5 each. If you buy 2 sets of 3 books, how much will you pay in total?",Find the cost for one set of 3 books: 3 × 5 = 15,Multiply the cost of one set by 2: 15 × 2 = 30,The total cost for 2 sets of 3 books is $30.,,,30,Math,ChatGPT,ChatGPT,3
+"Haley grows at the rate of 1 centimeter every month. If she is currently 100 centimeters, what will be her height after 5 years?",There are 12 months in a year,12 times 1 centimeter = 12 centimeters per year,5 times 12 centimeters = 60 centimeters,100 + 60 = 160 centimeters.,,160,Math,GSM8K,GSM8K,4
+ A school buys 12 boxes of pencils. Each box contains 30 pencils. 45 pencils are damaged and thrown away. How many usable pencils remain?,Total pencils: 12×30=360.,Damaged pencils: 45.,Subtract damaged from total: 360−45=315.,,,315,Math,ChatGPT,ChatGPT,3
+"A worker is paid $20 per hour for the first 40 hours in a week, and 1.5× that rate for overtime. If they work 50 hours, how much do they earn?",Regular hours: 40x20=800,Overtime hours: 50 - 40 = 10,Overtime rate: 20×1.5=30; earnings: 10×30=300,Add both parts: 800+300=1100,,1100,Math,ChatGPT,ChatGPT,4
+"A car travels 60 km in the first hour, 75 km in the second hour, and 75 km in the third hour. What is the average speed over the 3 hours?
+","Add all distances: 60+75+75=210 km.
+
+",Total time is 3 hours.,Divide total distance by total time: 210÷3=70 km/h,,,70,Math,ChatGPT,ChatGPT,3
+"Emma earns a base salary of $500 per week. She also earns a 10% commission on the first $2,000 of sales and 15% on any sales above $2,000. If she sells $3,500 worth of products in a week, how much does she earn total?","First $2,000 commission: 0.10×2000=200.","Remaining $1,500 at higher rate: 0.15×1500=225.",Total commission: 200+225=425.,Add base salary: 500+425=925.,,925,Math,ChatGPT,ChatGPT,4
+"A student scores 70% on a test worth 40 points, 85% on a test worth 30 points, and 90% on a test worth 50 points. What is their weighted average score out of 100?",First test: 0.70×40=28.,Second test: 0.85×30=25.5,Third test: 0.90×50=45,Total earned = 28+25.5+45=98.5; total possible = 40+30+50=120.,Weighted average = 98.5÷120×100≈82.1%.,82.10%,Math,ChatGPT,ChatGPT,5
+"A triangle has sides 3 cm, 4 cm, and 5 cm. Is it a right triangle?",Use Pythagoras: 3^2+4^2=9+16=25,5^2 = 25,Since a^2 + b^2 = c^2 it is a right triangle,,,yes,Math,ChatGPT,ChatGPT,3
+What is the least common multiple (LCM) of 4 and 6?,"List: 4 → 4, 8, 12...","List: 6 → 6, 12...",First match is 12,LCM = 12,,12,Math,ChatGPT,ChatGPT,4
+A die is rolled. What is the probability of rolling an even number?,"Even outcomes: 2, 4, 6 → 3 outcomes",Total outcomes: 6,Probability = 3/6=1/2​,,,1/2,Math,ChatGPT,ChatGPT,3
+"You’re playing Blackjack at a casino with a continuous shuffling machine. You’ve noticed that the dealer has drawn 5 black cards in a row. You believe a red card is “due” next. You double your bet, expecting a red card. Is this a smart move?","The cards are shuffled continuously, meaning each draw is independent.","The probability of drawing a red or black card remains constant: 50% red, 50% black (assuming a fair, full deck).","Drawing 5 black cards in a row is a coincidence, not a trend.",Believing a red card is “due” because of past outcomes is the Gambler’s Fallacy.,So doubling your bet based on that belief is not statistically justified.,no,Math,ChatGPT,ChatGPT,5
+"You’re dealt two face cards (a King and a Queen), giving you a total of 20. The dealer shows a 6 face-up. You hesitate and think, “Last time I stood on 20 and the dealer still got 21. That didn’t work out — maybe I should hit this time?",A hand total of 20 is extremely strong in Blackjack — only 21 can beat it.,The dealer showing a 6 is a weak card; they’re likely to bust.,Hitting on 20 risks busting yourself (you’ll go over 21 with any card over Ace).,Hitting on 20 risks busting yourself (you’ll go over 21 with any card over Ace).,"Statistically, standing gives the best expected value here — hitting is a bad idea.",no,Math,ChatGPT,ChatGPT,5
+"Three friends go out to eat and split a $30 bill equally. Each pays $10. The waiter realizes there was a $5 discount and gives $5 back. He gives $1 back to each person and keeps $2 as a tip.
+
+So each person paid $9 (total $27), and the waiter kept $2.
+But 27 + 2 = 29...
+Where did the missing dollar go?",Each person paid $9 → 3 × 9 = $27.,"Of that $27, $25 went to the restaurant, and $2 went to the waiter.",The mistake is adding the $2 tip to the $27 — that’s double-counting.,The correct breakdown: $25 (meal) + $2 (tip) + $3 (returned) = $30.,So there's no missing dollar — the question misleads by framing the math wrongly.,no missing dollar,Math,ChatGPT,ChatGPT,5
+A father is 40 years old and his son is 10. In how many years will the father’s age be exactly twice his son’s age?,Let x be the number of years in the future.,"Then: Father’s age = 40+x, Son’s age = 10+x",Set up equation: 40+x=2(10+x),Expand: 40+x=20+2x → Rearranged: 20=x,"So in 20 years, dad will be 60, son will be 30 — 60 is twice 30.",20,Math,ChatGPT,ChatGPT,5
